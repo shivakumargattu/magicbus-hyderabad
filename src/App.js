@@ -11,6 +11,7 @@ import AwsSecurity from './componets/Awscompents/AwsSecurity';
 import AwsServer from './componets/Awscompents/AwsServer';
 import Awsarchiture from './componets/Awscompents/Awsarchiture';
 import Awsnetworking from './componets/Awscompents/Awsnetworking';
+import ChatBotComponent from './componets/ChatBot';
 
 
 
@@ -21,6 +22,7 @@ function App() {
     <> 
      <Router>
      <Navbarcomponet/>
+    <ChatBotComponent/>
     
      
     
