@@ -67,6 +67,7 @@ Azure AI Services: <br>
 
 
 
+![image](https://github.com/user-attachments/assets/9e5458cb-4789-4a20-a1f3-7e08c2073f3c)
 
   
 <h2>Other Azure Technologies / Services</h2>
